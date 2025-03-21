@@ -1,0 +1,1 @@
+This project uses XGBoost classifier to predict fraud detection in the insurance sector.
