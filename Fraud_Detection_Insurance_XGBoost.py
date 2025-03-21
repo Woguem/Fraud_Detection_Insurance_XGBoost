@@ -1,3 +1,9 @@
+"""
+@author: Dr Yen Fred WOGUEM 
+
+"""
+
+
 import pandas as pd
 from sklearn.model_selection import train_test_split
 import xgboost as xgb
@@ -23,7 +29,7 @@ data = pd.DataFrame({
 })
 
 # Save data 
-data.to_csv('assurance_data.csv', index=False)
+#data.to_csv('assurance_data.csv', index=False)
 
 
 # Data processing 
